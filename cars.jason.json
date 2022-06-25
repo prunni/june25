@@ -1,0 +1,16 @@
+{
+    "cars" : [
+   { "make":"toyota",
+     "year":2020,
+      "color":["green","yello","blue"],
+      "engine":{
+                "type":"6cel",
+                "power":"100 cc",
+                "make":"toyota"
+      }
+  }
+  
+
+    ]
+  
+}
